@@ -42,41 +42,8 @@ My long-term goal is to participate in more **production-level AI projects**, im
 - TensorFlow
 - Scikit-learn
 
-### Production & Engineering
-
-- Docker
-- Git
-- Vector Database
-- API Integration
-- RAG Pipeline
-- Model Serving
-- AI System Design
-
 ---
 
-## 📌 What I'm Focusing On
-
-Currently, I am improving my ability to build AI systems that are not only accurate in experiments but also reliable in real-world usage.
-
-My focus areas:
-
-- Building end-to-end **RAG systems**
-- Deploying AI applications into production
-- Optimizing chatbot performance and user experience
-- Understanding business requirements and converting them into AI solutions
-- Improving communication, planning, and team coordination skills for future PM roles
-
----
-
-## 🎓 Education & Activities
-
-- Artificial Intelligence major student
-- Achieved Honorable Awards at university level
-- Participated in AI-related projects and internships
-- Joined AI community and research-oriented projects
-- Hackathon participant
-
----
 
 ## 💼 Career Goals
 
@@ -93,13 +60,6 @@ My target is to grow in three directions:
 3. **Project Management Mindset**  
    Develop planning, communication, stakeholder management, and product thinking skills to become a future **Project Manager**.
 
----
-
-## 📫 Connect With Me
-
-- GitHub: [Your GitHub Link](https://github.com/your-username)
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
 
